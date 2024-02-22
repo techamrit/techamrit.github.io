@@ -1,3 +1,3 @@
 # techamrit.github.io
-# resuma
+# Resume
 
